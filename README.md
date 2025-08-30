@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Darshil Bhatt  
 
-<!--
-**darshilbhatt-work/darshilbhatt-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master in International Management (Berlin, Deutschland)  
+📊 Berufsziel: **Performance Marketing | Marketing Analyst | Business Analyst**  
+🚀 Leidenschaft für die Verbindung von **Business, Marketing und Datenanalyse**, um Wachstum zu fördern.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Über Mich
+🔹 Ich liebe es, **komplexe Probleme in einfache Strategien** zu zerlegen.  
+🔹 Großes Interesse an **Performance Marketing, Marketing Analytics, Business-Analyse und Consulting**.  
+🔹 Stärken: **Entscheidungen treffen, Probleme lösen und kommunizieren**.  
+🔹 Zurzeit lerne ich **Deutsch (B1)**, um meine Karrierechancen zu erweitern.  
+🔹 Ziel: Eine langfristige Karriere in **Deutschland** als **Performance Marketer, Marketing Analyst oder Business Analyst** aufbauen.  
+
+---
+
+## 🛠️ Technologien & Tools
+| Kategorie        | Tools / Kenntnisse |
+|------------------|---------------------|
+| 📊 Datenanalyse  | Excel, Tableau, SQL (Grundlagen), Datenbereinigung |
+| 📈 Marketing     | Google Analytics 4, Google Ads, Meta Ads, Keyword-Recherche, Marketing-Kennzahlen |
+| 🎨 Design & KI   | Canva, KI-Tools, Storytelling-Präsentationen |
+| 📚 Business      | Marketing-Grundlagen, Business-Strategien, MS Office |
+
+---
+
+## 💡 Soft Skills
+✨ Kommunikation | ✨ Storytelling | ✨ Problemlösung | ✨ Führung | ✨ Strategisches Denken | ✨ Pünktlichkeit  
+
+---
+
+## 🌐 Vernetze dich mit mir
+🔗 [LinkedIn](your-linkedin-url)  
+
+---
+
+⭐ Immer offen für Lernen, Ausprobieren und Wachstum in **Performance Marketing, Marketing Analytics & Business Analysis**.
