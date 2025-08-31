@@ -10,7 +10,7 @@
 🔹 Ich liebe es, **komplexe Probleme in einfache Strategien** zu zerlegen.  
 🔹 Großes Interesse an **Performance Marketing, Marketing Analytics, Business-Analyse und Consulting**.  
 🔹 Stärken: **Entscheidungen treffen, Probleme lösen und kommunizieren**.  
-🔹 Zurzeit lerne ich **Deutsch (B1)**, um meine Karrierechancen zu erweitern.  
+🔹 Zurzeit lerne ich **Deutsch (B1-B2)**, um meine Karrierechancen zu erweitern.  
 🔹 Ziel: Eine langfristige Karriere in **Deutschland** als **Performance Marketer, Marketing Analyst oder Business Analyst** aufbauen.  
 
 ---
